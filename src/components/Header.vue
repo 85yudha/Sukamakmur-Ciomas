@@ -19,6 +19,9 @@
         <router-link to="/">Home</router-link>
       </a>
       <a class="text-lg text-red mx-4 cursor-pointer">
+        <router-link to="/">Perdes</router-link>
+      </a>
+      <a class="text-lg text-red mx-4 cursor-pointer">
         <router-link to="/map">Peta Desa</router-link>
       </a>
 
