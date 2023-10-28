@@ -57,7 +57,7 @@ import Sidebar from "../components/Sidebar.vue";
           
         </li>
         <li>
-          
+      <p class="text-lg font-semibold">Nila-nilai</p>    
           
         </li>
         <li>
