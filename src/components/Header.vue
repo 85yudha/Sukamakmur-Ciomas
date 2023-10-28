@@ -15,14 +15,14 @@
       </p>
     </div>
     <div class="flex items-center h-full ml-auto pr-20">
-      <a class="text-lg text-white mx-4 cursor-pointer">
+      <a class="text-lg text-red mx-4 cursor-pointer">
         <router-link to="/">Home</router-link>
       </a>
-      <a class="text-lg text-white mx-4 cursor-pointer">
+      <a class="text-lg text-red mx-4 cursor-pointer">
         <router-link to="/map">Peta Desa</router-link>
       </a>
 
-      <a class="text-lg text-white mx-4 cursor-pointer">
+      <a class="text-lg text-red mx-4 cursor-pointer">
         <router-link to="/about">Tentang Desa</router-link>
       </a>
 
