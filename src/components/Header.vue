@@ -8,10 +8,10 @@
     <div class="flex flex-col ml-5 justify-center">
       <!-- Sesuaikan nama desa masing-masing -->
       <p class="text-lg leading-none uppercase text-white font-bold mb-2">
-        Desa Contoh tugas Akhir Header
+        Desa Sukamakmur
       </p>
       <p class="text-lg leading-none uppercase text-white font-bold">
-        Kabupaten Bogor
+        Kecamatan Ciomas
       </p>
     </div>
     <div class="flex items-center h-full ml-auto pr-20">
