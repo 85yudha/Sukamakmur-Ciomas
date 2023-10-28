@@ -12,12 +12,10 @@ import Sidebar from "../components/Sidebar.vue";
     <Sidebar />
 
     <div class="flex-1 p-10">
-      <p class="text-3xl font-semibold">Visi & Misi Desa Contoh TUgas Akhir</p>
+      <p class="text-3xl font-semibold">Visi & Misi Desa Sukamakmur</p>
       <p class="text-lg font-semibold">Visi</p>
       <p>
-        “Terwujudnya Desa Setu Yang Sejahtera dan Mandiri, ditopang Kinerja
-        Aparatur yang Profesional dalam Kerangka Budaya Bangsa didasari Keimanan
-        dan Ketaqwaan”
+        “Mewujudkan Integritas Desa Mandiri berbasis partisipasi aktif masyarakat”
       </p>
       <p class="text-lg font-semibold">Misi</p>
       <ul>
