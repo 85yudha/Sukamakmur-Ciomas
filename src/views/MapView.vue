@@ -101,7 +101,7 @@ export default {
     async loadSomeGeoJson() {
       const nextIndex = this.layerData.length;
 
-      const response = await fetch("/Desa-Sukamakmur.json");
+      const response = await fetch("/Batas-RW-Sukamakmur.json");
       const data = await response.json();
 
       console.log(data);
