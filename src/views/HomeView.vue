@@ -56,8 +56,8 @@ import Sidebar from "../components/Sidebar.vue";
           
           
         </li>
-        <li>
-      <p class="text-lg font-semibold text-justify">Nila-nilai</p>    
+        <li class="text-justify"> 
+      <p class="text-lg font-semibold ">Nila-nilai</p>    
           Nilai-nilai yang akan dikembangkan dalam melaksanakan visi dan misi Kepala Desa adalah pembangunan yang dilaksanakan  di Desa Sukamakmur Kecamatan Ciomas Kabupaten Bogor dilaksanakan dengan berkeadilan dan tepat sasaran, perlu di operasionalisasi dan dilaksanakan dengan cara sebagai berikut :
         </li>
         <li>
