@@ -14,7 +14,7 @@ const router = createRouter({
     },
 
     {
-      path: "/",
+      path: "/perdes",
       name: "Perdes",
       component: PerdesView,
     },
