@@ -30,7 +30,7 @@ import {
         :geojson="geojson"
         :key="index"
         layer-type="overlay"
-        :name="`Dusun ${index + 1}`"
+        :name="`RW ${index + 1}`"
       />
 
       <l-geo-json
