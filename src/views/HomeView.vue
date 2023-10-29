@@ -56,9 +56,9 @@ import Sidebar from "../components/Sidebar.vue";
           
           
         </li>
-        <li class="text-justify"> 
-      <p class="text-lg font-semibold ">Nila-nilai</p>    
-          Nilai-nilai yang akan dikembangkan dalam melaksanakan visi dan misi Kepala Desa adalah pembangunan yang dilaksanakan  di Desa Sukamakmur Kecamatan Ciomas Kabupaten Bogor dilaksanakan dengan berkeadilan dan tepat sasaran, perlu di operasionalisasi dan dilaksanakan dengan cara sebagai berikut :
+        <li> 
+      <p class="text-lg font-semibold text-justify">Nila-nilai</p>    
+          <p class="text-justify">Nilai-nilai yang akan dikembangkan dalam melaksanakan visi dan misi Kepala Desa adalah pembangunan yang dilaksanakan  di Desa Sukamakmur Kecamatan Ciomas Kabupaten Bogor dilaksanakan dengan berkeadilan dan tepat sasaran, perlu di operasionalisasi dan dilaksanakan dengan cara sebagai berikut :</p>
         </li>
         <li>
           1. Tata kelola Pemerintahan yang bersih, transparan dan akuntabel yang di wujudkan dengan pengelola keuangan yang baik, pelaksanaan pembangunan yang sesuai dengan ketentuan perundang-undangan dan disiplin aparatur pemerintahan Desa dalam setiap tahapan pelaksanaan pembangunan.
