@@ -15,7 +15,9 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-3xl font-semibold">Daftar Peraturan Desa</p>
       <p class="text-lg font-semibold">Visi</p>
       <p>
-        “Mewujudkan Integritas Desa Mandiri berbasis Partisipasi Aktif Masyarakat”
+        Peraturan Desa adalah peraturan yang dikeluarkan oleh Pemerintah Desa untuk mengatur berbagai aspek kehidupan di wilayah Desa tersebut. 
+        Peraturan Desa yang telah di undangkan di Desa Sukamakmur Kecamatan Ciomas mencakup hal-hal seperti tata tertib, penggunaan lahan, pembangunan, 
+        peraturan lingkungan, pelayanan masyarakat, dan sebagainya. Peraturan Desa yang dibuat sesuai dengan peraturan yang lebih tinggi, seperti peraturan perundang-undangan Nasional, Provinsi, ataupun Kabupaten serta sesuai dengan hukum yang berlaku dengan tujuan untuk menjaga ketertiban dan kesejahteraan masyarakat Desa.
       </p>
       <p class="text-lg font-semibold">Misi</p>
       <ul>
