@@ -13,7 +13,7 @@ import Sidebar from "../components/Sidebar.vue";
 
     <div class="flex-1 p-10">
       <p class="text-3xl font-semibold">Daftar Peraturan Desa</p>
-      <p class="text-lg font-semibold">Visi</p>
+      <p class="text-lg font-semibold">Peraturan Desa Sukamakmur</p>
       <p>
         Peraturan Desa adalah peraturan yang dikeluarkan oleh Pemerintah Desa untuk mengatur berbagai aspek kehidupan di wilayah Desa tersebut. 
         Peraturan Desa yang telah di undangkan di Desa Sukamakmur Kecamatan Ciomas mencakup hal-hal seperti tata tertib, penggunaan lahan, pembangunan, 
